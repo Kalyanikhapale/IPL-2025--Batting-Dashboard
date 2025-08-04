@@ -4,7 +4,7 @@ Welcome to the IPL 2025 Batting Dashboard - a comprehensive Power BI project tha
 
 ## 📊 Dashboard Overview
 
-![IPL Dashboard](https://github.com/VamshiKunchi/IPL-Batting-Dashboard/blob/main/IPL%20Dashboard%20Image.png)
+![IPL Dashboard](https://github.com/Kalyanikhapale/IPL-2025--Batting-Dashboard/blob/main/IPL%20Dashboard%20Image.png)
 
 ## 🔍 Key Highlights
 
