@@ -39,7 +39,12 @@ The dataset includes IPL 2025 batting stats across all franchises, such as:
 1. Download the `.pbix` file.
 2. Open with Power BI Desktop.
 3. Explore the dashboard - feel free to apply filters and dive into insights.
+4. 
+-----
+## 👩‍💻 Author
 
----
+**Kalyani Khapale**
+(Data Analysis using PowerBI)
 
+-----
 ⭐ If you like this project, don't forget to star the repo and connect on LinkedIn!
