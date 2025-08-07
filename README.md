@@ -46,5 +46,3 @@ The dataset includes IPL 2025 batting stats across all franchises, such as:
 **Kalyani Khapale**
 (Data Analysis using PowerBI)
 
------
-⭐ If you like this project, don't forget to star the repo and connect on LinkedIn!
